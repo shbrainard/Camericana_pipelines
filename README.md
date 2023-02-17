@@ -1,5 +1,5 @@
 # C-americana-project-analysis-code
-Varied code used for analysis of Dawson's assemblies, GBS, HiC, mRNA-Seq based annotation .
+Varied code used for analysis of C. americana genomes using HiC, ONT and SMRT cell data.  GBS routines and mRNA-Seq based annotation also provided.
 
 #### program versioning:
 ```
